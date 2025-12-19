@@ -42,6 +42,7 @@ function App() {
         </>
       ) : (
         <div className="bg-[#fffce8]">
+          <NavBar />
           <Header />
           <WhatIsTWP />
           <HowItWorks />
